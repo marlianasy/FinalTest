@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://kasir-api.belajarqa.com'</initValue>
+      <name>baseURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'postman1'</initValue>
+      <name>name</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'postman1@gmail.com'</initValue>
+      <name>email</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'password'</initValue>
+      <name>password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjA3ZjMyZjUwLTRkZDMtNDA5Ny04N2JkLWQzM2QxZGU3NWI0NyIsImNvbXBhbnlJZCI6IjE0YmUwODA3LWQ1ZjctNGQyMS1hNTI1LWVhN2NlNGJjZDZjNSIsImlhdCI6MTY4NTM3NzI1M30.LZ_qGEYJU32tGRG7tdymLn79yiypG6ClvilZ5bfL2J4'</initValue>
+      <name>accessToken</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjA3ZjMyZjUwLTRkZDMtNDA5Ny04N2JkLWQzM2QxZGU3NWI0NyIsImNvbXBhbnlJZCI6IjE0YmUwODA3LWQ1ZjctNGQyMS1hNTI1LWVhN2NlNGJjZDZjNSIsImlhdCI6MTY4NTM3NzI1M30.iy3f7kKCiYuuKfBOeftwJnlYuzAWcJBJ6XUY0n9VbuY'</initValue>
+      <name>refreshToken</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Unit Name</description>
+      <initValue>'gram'</initValue>
+      <name>nameunit</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Unit description</description>
+      <initValue>'weight measurement'</initValue>
+      <name>description</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>userId</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
